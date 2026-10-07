@@ -124,7 +124,7 @@ function App() {
           ))}
         </nav>
         <div className="nav-actions">
-          <a className="social" href="#community" aria-label="Agent Pulse on X">
+          <a className="social" href="https://x.com/Agentpulse_" aria-label="Agent Pulse on X" target="_blank" rel="noopener noreferrer">
             <span>𝕏</span>
             Follow
           </a>
@@ -464,7 +464,7 @@ function App() {
         </div>
         <div>
           <b>Connect</b>
-          <a href="#">
+          <a href="https://x.com/Agentpulse_" target="_blank" rel="noopener noreferrer">
             X / Twitter <ExternalLink />
           </a>
           
